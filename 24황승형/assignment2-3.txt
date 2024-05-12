@@ -1,0 +1,29 @@
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   "24\355\231\251\354\212\271\355\230\225/assignment2-1.txt"
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "24\355\231\251\354\212\271\355\230\225/assignment2-3.txt"
+
+PS C:\Users\lenovo\Desktop\Real-Git-Study-2024-1> git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   "24\355\231\251\354\212\271\355\230\225/assignment2-1.txt"
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   "24\355\231\251\354\212\271\355\230\225/assignment2-2.txt"
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "24\355\231\251\354\212\271\355\230\225/assignment2-3.txt"

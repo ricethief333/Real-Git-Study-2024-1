@@ -1,0 +1,16 @@
+[main dd3050c] 24 ?⑹듅??assignment 2-2
+ 1 file changed, 6 insertions(+)
+ create mode 100644 "24\355\231\251\354\212\271\355\230\225/assignment2-2.txt"
+fatal: unknown write failure on standard output
+PS C:\Users\lenovo\Desktop\Real-Git-Study-2024-1> git log
+commit dd3050c5dd7ec6d5589539968cb10a515f239f8e (HEAD -> main)
+Author: ricethief333 <tmddud8110@gmail.com>
+Date:   Mon May 13 01:10:39 2024 +0900
+
+    24 황승형 assignment 2-2
+
+commit 03c3a7950a740e4b25ce3386b5ba686d62675514 (origin/main)
+Author: ricethief333 <tmddud8110@gmail.com>
+Date:   Mon May 13 00:59:11 2024 +0900
+
+    24 황승형 assignment 2-1
